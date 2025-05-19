@@ -32,7 +32,7 @@ Clone the repo and run each script in order. You can also open the project in RS
 
 ---
 title: "Summary_DAG_No40"
-author: "Parisa"
+author: "Parisa Hesari"
 date: "2024-09-19"
 output: word_document
 ---
