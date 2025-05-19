@@ -1,4 +1,4 @@
-# Racial Disparities in Breast Cancer Outcomes: Causal Inference Using DAGs
+# Ethnoracial Disparities in Breast Cancer Treatment Time and Survival: A Systematic Review With a DAG-based Causal Model
 
 This repository contains the R code used for the paper:  
 "Ethnoracial Disparities in Breast Cancer Treatment Time and Survival: A Systematic Review With a DAG-based Causal Model."
