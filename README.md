@@ -1,3 +1,35 @@
+# Racial Disparities in Breast Cancer Outcomes: Causal Inference Using DAGs
+
+This repository contains the R code used for the paper:  
+"Ethnoracial Disparities in Breast Cancer Treatment Time and Survival: A Systematic Review With a DAG-based Causal Model."
+
+## Abstract 
+For interventions aimed at redressing health disparities in breast cancer to be effective, a clear understanding of the nature and causes of these disparities is required. Our question is: what is the current evidence for ethnoracial disparities in time-to-treatment initiation and survival in breast cancer, and how are the causal mechanisms of these disparities conceptualized in the literature? A comprehensive systematic search of studies on cohorts of female breast cancer patients diagnosed with stage I-III was performed. Directed acyclic graphs were used to describe implicit causal relationships between racial/ethnic group membership and time-to-treatment initiation and survival outcomes. This review revealed strong evidence for ethnoracial disparities in both time to treatment and survival among breast cancer patients. Unmeasured factors identified by the authors highlighted gaps in data sources and opportunities for causal reasoning. While the existing literature describes ethnoracial disparities, there is very limited discussion of causal mechanisms, and no discussion of system-level rather than individual-level effects. Addressing established ethnoracial disparities in breast cancer requires new research that explicitly considers the causal mechanisms of potential interventions, incorporating unmeasured factors contributing to these disparities.
+
+## Contents
+- `data_preparation.R`: Code for loading and cleaning data
+- `dag_construction.R`: Code for building and visualizing DAGs (using `dagitty`)
+- `mediation_analysis.R`: Code for causal mediation analysis
+- `sensitivity_analysis.R`: Code for assessing robustness of findings
+- `utils/`: Helper functions
+
+## Dependencies
+The analysis was performed in R using the following packages:
+- `dagitty`
+- `tidyverse`
+- `survival`
+- `mediation`  
+(see `requirements.txt` or install manually)
+
+## Usage
+Clone the repo and run each script in order. You can also open the project in RStudio and use the R scripts interactively.
+
+## Notes
+- DAGs were created based on literature and expert knowledge.
+- The analysis focuses on observational data; assumptions are discussed in the manuscript.
+
+
+
 ---
 title: "Summary_DAG_No40"
 author: "Parisa"
