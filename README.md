@@ -1,6 +1,6 @@
 # Ethnoracial Disparities in Breast Cancer Treatment Time and Survival: A Systematic Review With a DAG-based Causal Model
 
-This repository contains the R code used for the paper [here] (https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Causal+Mediation+Analysis+of+Time-to-Event+Data+in+the+Context+of+Causal+Mediation+Analysis+of+Time-to-Event+Data+in+the+Context+of+Intersectionality+in+Breast+Cancer+Intersectionality+in+Breast+Cancer+&btnG=) [Mokhtari Hesari, P. (2025). Causal Mediation Analysis of Time-to-Event Data in the Context of Intersectionality in Breast Cancer. ]:  
+This repository contains the R code used for the paper [here](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Causal+Mediation+Analysis+of+Time-to-Event+Data+in+the+Context+of+Causal+Mediation+Analysis+of+Time-to-Event+Data+in+the+Context+of+Intersectionality+in+Breast+Cancer+Intersectionality+in+Breast+Cancer+&btnG=) [Mokhtari Hesari, P. (2025). Causal Mediation Analysis of Time-to-Event Data in the Context of Intersectionality in Breast Cancer. ]:  
 "Ethnoracial Disparities in Breast Cancer Treatment Time and Survival: A Systematic Review With a DAG-based Causal Model."
 
 ## Abstract 
