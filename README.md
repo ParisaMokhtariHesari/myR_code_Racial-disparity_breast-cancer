@@ -8,7 +8,7 @@ For interventions aimed at redressing health disparities in breast cancer to be 
 
 ## Contents
 - `data_preparation.R`: Code for loading and cleaning data
-- `dag_construction.R`: Code for building and visualizing DAGs (using `dagitty`)
+- `dag_construction.R`: Code for building and visualizing DAGs (using `dagitty`bfor each study included in the systematic review and the final summary DAG)
 - `mediation_analysis.R`: Code for causal mediation analysis
 - `sensitivity_analysis.R`: Code for assessing robustness of findings
 - `utils/`: Helper functions
